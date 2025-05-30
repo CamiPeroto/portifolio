@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     siteName: 'Camila Peroto',
     images: [
       {
-        url: 'https://github.com/CamiPeroto/portifolio/blob/master/public/images/background.png',
+        url: 'https://raw.githubusercontent.com/CamiPeroto/portifolio/master/public/images/background.png',
         width: 1200,
         height: 630,
         alt: 'Camila Peroto - Desenvolvedora',
