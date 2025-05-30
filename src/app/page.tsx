@@ -1,6 +1,5 @@
 import { Technologys } from "@/components/headers/tecnologys";
 import ProfileHeader from "@/components/profile-header";
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { TabsDemo } from "@/components/ui/tabs-demo";
 
 export default function Home() {

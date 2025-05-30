@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
-import { Mail, Github, ExternalLink, Languages, Sun } from "lucide-react";
+import { Mail, Github, Languages, Sun } from "lucide-react";
 
 export default function ProfileHeader() {
   return (
