@@ -6,9 +6,9 @@
     "all": [
       {
         "name": "Safepass - Frontend",
-        "url_github": "https://github.com/CamiPeroto/safe-pass",
-        "description": "Plataforma para gerenciamento de senhas pessoais",
-        "techs": ["React", "TypeScript", "TailwindCSS"],
+        "url_github": "https://github.com/CamiPeroto/safepass-frontend",
+        "description": "Plataforma para gerenciamento seguro de senhas pessoais, oferece uma interface moderna e responsiva, permitindo que os usuários armazenem, organizem e acessem suas credenciais de forma prática e protegida.",
+        "techs": ["Next.js", "React", "TypeScript", "Tailwind", "ShadcnUi", "Hookform"],
         "development": true,
         "online": false,
         "github": true
@@ -16,24 +16,24 @@
       {
         "name": "Safepass - Backend",
         "url_github": "https://github.com/CamiPeroto/safe-pass",
-        "description": "Api do sistema",
-        "techs": ["React", "TypeScript", "TailwindCSS"],
+        "description": "Api do sistema Safepass",
+        "techs": ["Node", "TypeScript", "Nest.js", "JWT", "MySQL"],
         "online": false,
         "github": true
       },
       {
         "name": "Adm - Cursos",
         "url_github": "https://github.com/CamiPeroto/projeto-laravel-1/",
-        "description": "Plataforma para gerenciamento de senhas pessoais",
-        "techs": ["React", "TypeScript", "TailwindCSS"],
+        "description": "Plataforma web para gerenciamento de cursos, aulas e alunos, desenvolvido com sistema de permissões e API com Sanctum",
+        "techs": ["PHP", "Laravel", "Sanctum", "Bootstrap", "JWT", "MySQL"],
         "online": false,
         "github": true
       },
       {
         "name": "Farmacia - Barateira",
         "url_github": "https://github.com/CamiPeroto/trabalho-farmacia",
-        "description": "Plataforma para gerenciamento de senhas pessoais",
-        "techs": ["React", "TypeScript", "TailwindCSS"],
+        "description": "Sistema de farmácia com e-commerce desenvolvido como trabalho acadêmico. A aplicação permite o gerenciamento de produtos, pedidos e uma área restrita para funcionários, com controle de acesso baseado em papéis utilizando Laravel Permission.",
+        "techs": ["PHP", "Laravel", "Bootstrap", "JWT", "MySQL"],
         "development": true,
         "online": false,
         "github": true
@@ -41,32 +41,32 @@
       {
         "name": "Adm - React",
         "url_github": "https://github.com/CamiPeroto/adm-react",
-        "description": "Plataforma para gerenciamento de senhas pessoais",
-        "techs": ["React", "TypeScript", "TailwindCSS"],
+        "description": "Sistema administrativo desenvolvido em React que permite o cadastro e gerenciamento de usuários, produtos, categorias e situações de produtos, com foco em uma interface simples e funcional.",
+        "techs": ["React", "TypeScript", "TailwindCSS", "Yup", "Hookform"],
         "online": false,
         "github": true
       },
       {
         "name": "API - Adm React",
         "url_github": "https://github.com/CamiPeroto/api-node-js",
-        "description": "Plataforma para gerenciamento de senhas pessoais",
-        "techs": ["React", "TypeScript", "TailwindCSS"],
+        "description": "Api do sistema Adm React",
+        "techs": ["Node", "TypeScript", "Express.js", "JWT", "MySQL"],
         "online": false,
         "github": true
       },
       {
         "name": "Desafio - Empsis",
         "url_github": "https://github.com/CamiPeroto/teste-empsis",
-        "description": "Plataforma para gerenciamento de senhas pessoais",
-        "techs": ["React", "TypeScript", "TailwindCSS"],
+        "description": "Teste técnico desenvolvido para processo seletivo da empresa Empsis. O desafio consistiu na criação de um CRUD de usuáiros com função de pesquisa.",
+        "techs": ["PHP", "Laravel", "Tailwind", "JQuery", "MySQL"],
         "online": false,
         "github": true
       },
       {
         "name": "Portifólio - v1",
         "url_github": "https://github.com/CamiPeroto/Dio--Developer--Portfolio",
-        "description": "Plataforma para gerenciamento de senhas pessoais",
-        "techs": ["React", "TypeScript", "TailwindCSS"],
+        "description": "Primeira versão do meu portifólio pessoal, realizado como atividade da formação Javascript Developer - DIO. O site está disponível publicamente.",
+        "techs": ["HTML", "CSS", "Javascript"],
         "online": true,
         "link": "https://camiperoto.github.io/Dio--Developer--Portfolio/",
         "github": true
@@ -75,16 +75,16 @@
     "professional": [
       {
         "name": "Souzs",
-        "description": "Plataforma para gerenciamento de senhas pessoais",
-        "techs": ["React", "TypeScript", "TailwindCSS"],
+        "description": "Website institucional da empresa Souzs (onde trabalho), especializada no desenvolvimento de sites e sistemas. Atuei na implementação de páginas específicas utilizando React, TypeScript e Shadcn. O site está disponível publicamente.",
+        "techs": ["React", "TypeScript", "Tailwind", "ShadcnUi"],
         "online": true,
         "link": "https://souzs.com/",
         "github": false
       },
       {
-        "name": "Simionato Advogado",
-        "description": "Plataforma para gerenciamento de senhas pessoais",
-        "techs": ["React", "TypeScript", "TailwindCSS"],
+        "name": " Site Simionato",
+        "description": "Website desenvolvido para o escritório de advocacia do Dr. Simionato, como parte de um projeto realizado na empresa Souzs. Contribuí na implementação de páginas utilizando React, TypeScript e Shadcn. O site está disponível publicamente.",
+        "techs": ["React", "TypeScript", "Tailwind", "ShadcnUi"],
         "online": true,
         "link": "https://souzs.com/",
         "github": false
@@ -93,9 +93,9 @@
     "personal": [
       {
         "name": "Safepass - Frontend",
-        "url_github": "https://github.com/CamiPeroto/safe-pass",
-        "description": "Plataforma para gerenciamento de senhas pessoais",
-        "techs": ["React", "TypeScript", "TailwindCSS"],
+        "url_github": "https://github.com/CamiPeroto/safepass-frontend",
+        "description": "Plataforma para gerenciamento seguro de senhas pessoais, oferece uma interface moderna e responsiva, permitindo que os usuários armazenem, organizem e acessem suas credenciais de forma prática e protegida.",
+        "techs": ["Next.js", "React", "TypeScript", "Tailwind", "ShadcnUi", "Hookform"],
         "online": false,
         "development": true,
         "github": true
@@ -103,41 +103,43 @@
       {
         "name": "Safepass - Backend",
         "url_github": "https://github.com/CamiPeroto/safe-pass",
-        "description": "Plataforma para gerenciamento de senhas pessoais",
-        "techs": ["React", "TypeScript", "TailwindCSS"],
+        "description": "Api do sistema Safepass",
+        "techs": ["Node", "TypeScript", "Nest.js", "JWT", "MySQL"],
         "online": false,
         "github": true
       },
       {
         "name": "Adm - Cursos",
         "url_github": "https://github.com/CamiPeroto/projeto-laravel-1/",
-        "description": "Plataforma para gerenciamento de senhas pessoais",
-        "techs": ["React", "TypeScript", "TailwindCSS"],
+        "description": "Plataforma web para gerenciamento de cursos, aulas e alunos, desenvolvido com sistema de permissões e API com Sanctum",
+        "techs": ["PHP", "Laravel", "Sanctum", "Bootstrap", "JWT", "MySQL"],
         "online": false,
         "github": true
       },
       {
         "name": "Desafio - Empsis",
         "url_github": "https://github.com/CamiPeroto/teste-empsis",
-        "description": "Plataforma para gerenciamento de senhas pessoais",
-        "techs": ["React", "TypeScript", "TailwindCSS"],
+        "description": "Teste técnico desenvolvido para processo seletivo da empresa Empsis. O desafio consistiu na criação de um CRUD de usuáiros com função de pesquisa.",
+        "techs": ["PHP", "Laravel", "Tailwind", "JQuery", "MySQL"],
         "online": false,
         "github": true
       },
       {
         "name": "Trilha de CSS",
         "url_github": "https://camiperoto.github.io/Trilha-Css-Desafio1/",
-        "description": "Plataforma para gerenciamento de senhas pessoais",
-        "techs": ["React", "TypeScript", "TailwindCSS"],
-        "online": false,
+        "description": "Projeto desenvolvido como atividade na formação CSS Developer da plataforma. O site está disponível publicamente.",
+        "techs": ["HTML", "CSS"],
+        "online": true,
+        "link": "https://camiperoto.github.io/Trilha-Css-Desafio1/",
         "github": true
       },
       {
         "name": "Portifólio - v1",
         "url_github": "https://github.com/CamiPeroto/Dio--Developer--Portfolio",
-        "description": "Plataforma para gerenciamento de senhas pessoais",
-        "techs": ["React", "TypeScript", "TailwindCSS"],
-        "online": false,
+        "description": "Primeira versão do meu portifólio pessoal, realizado como atividade da formação Javascript Developer - DIO, com interface responsiva e usabilidade. O site está disponível publicamente.",
+        "techs": ["HTML", "CSS", "Javascript"],
+        "online": true,
+        "link": "https://camiperoto.github.io/Dio--Developer--Portfolio/",
         "github": true
       }
     ]
