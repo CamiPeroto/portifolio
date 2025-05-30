@@ -1,0 +1,183 @@
+{
+  "photo": "https://avatars.githubusercontent.com/u/170899439?s=400&u=ac69f5c88c151a110aa34727492102a93ded8cb7&v=4",
+  "job": "Desenvolvedora Fullstack",
+  "email": "camilaperoto.dev@gmail.com",
+  "projects": {
+    "all": [
+      {
+        "name": "Safepass - Frontend",
+        "url_github": "https://github.com/CamiPeroto/safe-pass",
+        "description": "Plataforma para gerenciamento de senhas pessoais",
+        "techs": ["React", "TypeScript", "TailwindCSS"],
+        "development": true,
+        "online": false,
+        "github": true
+      },
+      {
+        "name": "Safepass - Backend",
+        "url_github": "https://github.com/CamiPeroto/safe-pass",
+        "description": "Api do sistema",
+        "techs": ["React", "TypeScript", "TailwindCSS"],
+        "online": false,
+        "github": true
+      },
+      {
+        "name": "Adm - Cursos",
+        "url_github": "https://github.com/CamiPeroto/projeto-laravel-1/",
+        "description": "Plataforma para gerenciamento de senhas pessoais",
+        "techs": ["React", "TypeScript", "TailwindCSS"],
+        "online": false,
+        "github": true
+      },
+      {
+        "name": "Farmacia - Barateira",
+        "url_github": "https://github.com/CamiPeroto/trabalho-farmacia",
+        "description": "Plataforma para gerenciamento de senhas pessoais",
+        "techs": ["React", "TypeScript", "TailwindCSS"],
+        "development": true,
+        "online": false,
+        "github": true
+      },
+      {
+        "name": "Adm - React",
+        "url_github": "https://github.com/CamiPeroto/adm-react",
+        "description": "Plataforma para gerenciamento de senhas pessoais",
+        "techs": ["React", "TypeScript", "TailwindCSS"],
+        "online": false,
+        "github": true
+      },
+      {
+        "name": "API - Adm React",
+        "url_github": "https://github.com/CamiPeroto/api-node-js",
+        "description": "Plataforma para gerenciamento de senhas pessoais",
+        "techs": ["React", "TypeScript", "TailwindCSS"],
+        "online": false,
+        "github": true
+      },
+      {
+        "name": "Desafio - Empsis",
+        "url_github": "https://github.com/CamiPeroto/teste-empsis",
+        "description": "Plataforma para gerenciamento de senhas pessoais",
+        "techs": ["React", "TypeScript", "TailwindCSS"],
+        "online": false,
+        "github": true
+      },
+      {
+        "name": "Portifólio - v1",
+        "url_github": "https://github.com/CamiPeroto/Dio--Developer--Portfolio",
+        "description": "Plataforma para gerenciamento de senhas pessoais",
+        "techs": ["React", "TypeScript", "TailwindCSS"],
+        "online": true,
+        "link": "https://camiperoto.github.io/Dio--Developer--Portfolio/",
+        "github": true
+      }
+    ],
+    "professional": [
+      {
+        "name": "Souzs",
+        "description": "Plataforma para gerenciamento de senhas pessoais",
+        "techs": ["React", "TypeScript", "TailwindCSS"],
+        "online": true,
+        "link": "https://souzs.com/",
+        "github": false
+      },
+      {
+        "name": "Simionato Advogado",
+        "description": "Plataforma para gerenciamento de senhas pessoais",
+        "techs": ["React", "TypeScript", "TailwindCSS"],
+        "online": true,
+        "link": "https://souzs.com/",
+        "github": false
+      }
+    ],
+    "personal": [
+      {
+        "name": "Safepass - Frontend",
+        "url_github": "https://github.com/CamiPeroto/safe-pass",
+        "description": "Plataforma para gerenciamento de senhas pessoais",
+        "techs": ["React", "TypeScript", "TailwindCSS"],
+        "online": false,
+        "development": true,
+        "github": true
+      },
+      {
+        "name": "Safepass - Backend",
+        "url_github": "https://github.com/CamiPeroto/safe-pass",
+        "description": "Plataforma para gerenciamento de senhas pessoais",
+        "techs": ["React", "TypeScript", "TailwindCSS"],
+        "online": false,
+        "github": true
+      },
+      {
+        "name": "Adm - Cursos",
+        "url_github": "https://github.com/CamiPeroto/projeto-laravel-1/",
+        "description": "Plataforma para gerenciamento de senhas pessoais",
+        "techs": ["React", "TypeScript", "TailwindCSS"],
+        "online": false,
+        "github": true
+      },
+      {
+        "name": "Desafio - Empsis",
+        "url_github": "https://github.com/CamiPeroto/teste-empsis",
+        "description": "Plataforma para gerenciamento de senhas pessoais",
+        "techs": ["React", "TypeScript", "TailwindCSS"],
+        "online": false,
+        "github": true
+      },
+      {
+        "name": "Trilha de CSS",
+        "url_github": "https://camiperoto.github.io/Trilha-Css-Desafio1/",
+        "description": "Plataforma para gerenciamento de senhas pessoais",
+        "techs": ["React", "TypeScript", "TailwindCSS"],
+        "online": false,
+        "github": true
+      },
+      {
+        "name": "Portifólio - v1",
+        "url_github": "https://github.com/CamiPeroto/Dio--Developer--Portfolio",
+        "description": "Plataforma para gerenciamento de senhas pessoais",
+        "techs": ["React", "TypeScript", "TailwindCSS"],
+        "online": false,
+        "github": true
+      }
+    ]
+  },
+  "technologies": [
+    {
+      "name": "Html",
+      "logo": "https://raw.githubusercontent.com/camiperoto/js-developer-portfolio/main/data/imgs/html.png"
+    },
+    {
+      "name": "CSS",
+      "logo": "https://raw.githubusercontent.com/camiperoto/js-developer-portfolio/main/data/imgs/css.png"
+    },
+    {
+      "name": "Js",
+      "logo": "https://raw.githubusercontent.com/camiperoto/js-developer-portfolio/main/data/imgs/js.png"
+    },
+    {
+      "name": "Laravel",
+      "logo": "https://raw.githubusercontent.com/camiperoto/js-developer-portfolio/main/data/imgs/laravel.png"
+    },
+    {
+      "name": "Node",
+      "logo": "https://raw.githubusercontent.com/camiperoto/js-developer-portfolio/main/data/imgs/light-node.png"
+    },
+    {
+      "name": "React",
+      "logo": "https://raw.githubusercontent.com/camiperoto/js-developer-portfolio/main/data/imgs/light-react.png"
+    },
+    {
+      "name": "Typescript",
+      "logo": "https://raw.githubusercontent.com/camiperoto/js-developer-portfolio/main/data/imgs/light-ts.png"
+    },
+    {
+      "name": "MySql",
+      "logo": "https://raw.githubusercontent.com/camiperoto/js-developer-portfolio/main/data/imgs/mysql.png"
+    },
+    {
+      "name": "Github",
+      "logo": "https://raw.githubusercontent.com/camiperoto/js-developer-portfolio/main/data/imgs/github.png"
+    }
+  ]
+}

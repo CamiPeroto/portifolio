@@ -1,6 +1,7 @@
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
 import { Mail, Github, Languages, Sun } from "lucide-react";
+import portfolio from '@/data/portfolio.json';
 
 export default function ProfileHeader() {
   return (
@@ -11,13 +12,17 @@ export default function ProfileHeader() {
           {/* Profile photo and basic info */}
           <div className="flex flex-col items-start space-y-4">
             <div className="w-24 h-24 rounded-full overflow-hidden border-2 border-gray-900">
-              <Image src="/images/profile-photo.jpg" alt="profilepic" width={96} height={96} className="w-full h-full object-cover" />
+              <Image src={portfolio.photo}
+                alt="profilepic" 
+                width={96} 
+                height={96} 
+                className="w-full h-full object-cover" />
             </div>
             <div className="w-full flex justify-between items-center">
               {/* Lado esquerdo: nome e função */}
               <div>
                 <h1 className="text-2xl font-bold text-white">Camila Peroto</h1>
-                <p className="text-gray-400">Fullstack Developer</p>
+                <p className="text-gray-400">{portfolio.job}</p>
               </div>
 
               {/* Lado direito: ícones */}
@@ -49,7 +54,7 @@ export default function ProfileHeader() {
                 LinkedIn
               </Button>
             </a>
-            <a href="mailto:camilaperoto.dev@gmail.com">
+            <a href={`mailto:${portfolio.email}`}>
               <Button variant="outline" className="border-gray-600 text-gray-300 hover:bg-gray-800 w-full">
                 <Mail className="w-4 h-4 mr-2" />
                 E-mail
