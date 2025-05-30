@@ -5,8 +5,7 @@ export function Technologys() {
     <section className="mt-10">
       <h3 className="text-3xl font-bold text-gray-100">Tecnologias</h3>
       <p className="text-gray-300">Tecnologias que já tive contato durante a minha carreira.</p>
-      <div className="py-3 flex items-center gap-5 flex-wrap mb-3">
-        
+      <div className="py-3 flex items-center gap-5 flex-wrap mb-5"> 
         <Image 
           src="/images/icons/ts.png" 
           alt="icon-typescript" 
