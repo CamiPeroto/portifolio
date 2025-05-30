@@ -70,10 +70,10 @@ export function TabsDemo() {
                     )}
                   </div>
 
-                  <p className="text-base">{projeto.description}</p>
+                  <p className="text-base mt-2">{projeto.description}</p>
 
-                  <Label htmlFor={`tech-${index}`} className="mt-16 mb-4">
-                    Tecnologias
+                  <Label htmlFor={`tech-${index}`} className="mt-8 mb-4">
+                    Utilizado:
                   </Label>
 
                   <div className="flex justify-between items-center flex-wrap gap-2">
@@ -87,8 +87,9 @@ export function TabsDemo() {
 
                     {/* Ícone do GitHub, se existir URL */}
                     {projeto.github && projeto.url_github && (
-                      <a href={projeto.url_github} target="_blank" rel="noopener noreferrer" title="Ver repositório">
-                        <Image src="/images/icons/github.png" alt="Ícone do GitHub" width={24} height={24} className="w-6 h-6 object-contain hover:opacity-80 transition" />
+                      <a href={projeto.url_github} target="_blank" rel="noopener noreferrer" title="Ver repositório" className="flex items-center space-x-1">
+                        <Image src="/images/icons/github.png" alt="Ícone do GitHub" width={24} height={24} className="w-6 h-6 object-contain hover:opacity-80 transition mt-1" />
+                        <span className=" ml-1 text-sm text-gray-300 underline sm:hidden mt-1">Ver no GitHub</span>
                       </a>
                     )}
                   </div>
@@ -130,10 +131,10 @@ export function TabsDemo() {
                     )}
                   </div>
 
-                  <p className="text-base">{projeto.description}</p>
+                  <p className="text-base mt-2">{projeto.description}</p>
 
-                  <Label htmlFor={`tech-${index}`} className="mt-16 mb-4">
-                    Tecnologias
+                  <Label htmlFor={`tech-${index}`} className="mt-8 mb-4">
+                    Utilizado:
                   </Label>
 
                   <div className="flex justify-between items-center flex-wrap gap-2">
@@ -190,10 +191,10 @@ export function TabsDemo() {
                     )}
                   </div>
 
-                  <p className="text-base mt-1">{projeto.description}</p>
+                  <p className="text-base mt-2">{projeto.description}</p>
 
-                  <Label htmlFor={`tech-${index}`} className="mt-16 mb-4">
-                    Tecnologias
+                  <Label htmlFor={`tech-${index}`} className="mt-8 mb-4">
+                    Utilizado:
                   </Label>
 
                   <div className="flex justify-between items-center flex-wrap gap-2">
@@ -207,8 +208,9 @@ export function TabsDemo() {
 
                     {/* Ícone do GitHub, se existir URL */}
                     {projeto.github && projeto.url_github && (
-                      <a href={projeto.url_github} target="_blank" rel="noopener noreferrer" title="Ver repositório">
-                        <Image src="/images/icons/github.png" alt="Ícone do GitHub" width={24} height={24} className="w-6 h-6 object-contain hover:opacity-80 transition" />
+                      <a href={projeto.url_github} target="_blank" rel="noopener noreferrer" title="Ver repositório" className="flex items-center space-x-1">
+                        <Image src="/images/icons/github.png" alt="Ícone do GitHub" width={24} height={24} className="w-6 h-6 object-contain hover:opacity-80 transition mt-1" />
+                        <span className=" ml-1 text-sm text-gray-300 underline sm:hidden mt-1">Ver no GitHub</span>
                       </a>
                     )}
                   </div>
