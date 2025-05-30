@@ -19,10 +19,10 @@ const projetosMock = [
 export function TabsDemo() {
   return (
     <Tabs defaultValue="all" className="w-full mt-5">
-      <TabsList className="grid w-full grid-cols-3">
+      <TabsList className="grid w-full grid-cols-3 gap-1 mb-5 sm:mb-3">
         <TabsTrigger value="all">Todos</TabsTrigger>
-        <TabsTrigger value="professional">Projetos Profissionais</TabsTrigger>
-        <TabsTrigger value="personal">Projetos Pessoais</TabsTrigger>
+        <TabsTrigger value="professional" className="whitespace-normal text-center text-sm sm:text-sm px-2 py-1">Projetos Profissionais</TabsTrigger>
+        <TabsTrigger value="personal" className="whitespace-normal text-center text-xs sm:text-sm px-2 py-1">Projetos Pessoais</TabsTrigger>
       </TabsList>
       <TabsContent value="all">
         <Card className="bg-white dark:bg-gray-950 text-black dark:text-white">
