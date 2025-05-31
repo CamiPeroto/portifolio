@@ -1,6 +1,5 @@
 # Portfólio — Camila Peroto
 
-Olá! 👋  
 Seja bem-vindo(a) ao repositório da **segunda versão** do meu portfólio.
 
 A **segunda versão** já está no ar com melhorias e novos projetos!  
