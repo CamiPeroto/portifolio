@@ -74,6 +74,14 @@
     ],
     "professional": [
       {
+        "name": "Site Simionato",
+        "description": "Website desenvolvido para o escritório de advocacia do Dr. Simionato, como parte de um projeto realizado na empresa Souzs. Contribuí na implementação de páginas utilizando React, TypeScript e Shadcn. O site está disponível publicamente.",
+        "techs": ["React", "TypeScript", "Tailwind", "ShadcnUi"],
+        "online": true,
+        "link": "https://simionatoadvogado.adv.br/",
+        "github": false
+      },
+      {
         "name": "Souzs",
         "description": "Website institucional da empresa Souzs (onde trabalho), especializada no desenvolvimento de sites e sistemas. Atuei na implementação de páginas específicas utilizando React, TypeScript e Shadcn. O site está disponível publicamente.",
         "techs": ["React", "TypeScript", "Tailwind", "ShadcnUi"],
@@ -82,11 +90,12 @@
         "github": false
       },
       {
-        "name": " Site Simionato",
-        "description": "Website desenvolvido para o escritório de advocacia do Dr. Simionato, como parte de um projeto realizado na empresa Souzs. Contribuí na implementação de páginas utilizando React, TypeScript e Shadcn. O site está disponível publicamente.",
-        "techs": ["React", "TypeScript", "Tailwind", "ShadcnUi"],
+        "name": "Site Hibritech",
+        "description": "Coming-Soon desenvolvido para a rede de postos Hibritech, como parte de um projeto realizado na empresa Souzs. Contribuí na implementação de páginas utilizando React, TypeScript, TailwindCSS e no Back-End implementando o CMS. O site está disponível publicamente.",
+        "techs": ["React", "TypeScript", "Tailwind"],
         "online": true,
-        "link": "https://souzs.com/",
+        "development": true,
+        "link": "http://hibritech.com.br/coming-soon",
         "github": false
       }
     ],
