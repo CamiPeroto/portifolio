@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
-import { Mail, Github, Languages, Sun } from "lucide-react";
+import { Mail, GitBranch, Languages, Sun } from "lucide-react";
 import portfolio from '@/data/portfolio.json';
 
 export default function ProfileHeader() {
@@ -48,7 +48,7 @@ export default function ProfileHeader() {
 
           {/* Action buttons */}
           <div className="grid grid-cols-3 gap-3">
-            <a href="https://www.linkedin.com/in/camila-bueno-peroto/" target="_blank">
+            <a href="https://www.linkedin.com/in/camila-bueno-peroto/" target="_blank"  rel="noopener">
               <Button variant="secondary" className="bg-white text-black hover:bg-gray-100 font-medium w-full">
                 <span className="mr-2">in</span>
                 LinkedIn
@@ -60,9 +60,9 @@ export default function ProfileHeader() {
                 E-mail
               </Button>
             </a>
-            <a href="https://github.com/CamiPeroto" target="_blank">
+            <a href="https://github.com/CamiPeroto" target="_blank" rel="noopener">
               <Button variant="outline" className="border-gray-600 text-gray-300 hover:bg-gray-800 w-full">
-                <Github className="w-4 h-4 mr-2" />
+                <GitBranch className="w-4 h-4 mr-2" />
                 Github
               </Button>
             </a>
